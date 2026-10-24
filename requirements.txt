@@ -1,0 +1,3 @@
+dnotifier
+requests
+beautifulsoup4
